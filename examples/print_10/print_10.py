@@ -21,5 +21,5 @@ else:
     
 print( 'myrank=',myrank,' start =',start, ' end=',end)
 
-for i in range(start,end+1):
+for i in range(start,end):
     print('Rank ',myrank,': ',i)
